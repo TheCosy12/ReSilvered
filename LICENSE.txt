@@ -1,0 +1,96 @@
+ReSilvered - LICENSE
+
+Copyright (c) 2026 TheCosy12
+
+All rights reserved.
+
+1. OWNERSHIP
+
+The ReSilvered project, including its original source code, assets,
+documentation, and other original materials, is the property of
+the copyright holder unless otherwise stated.
+
+This license applies only to original work created for ReSilvered.
+Third-party code, libraries, templates, assets, and other components
+remain subject to their respective licenses.
+
+2. PERMITTED USE
+
+You are permitted to:
+
+- view the source code for personal, educational, and development
+  purposes;
+- use the public API of ReSilvered to create independent addons;
+- create, modify, and distribute independent addons for ReSilvered;
+- distribute addons separately from ReSilvered.
+
+Addons are not required to use this license and may have their own
+licenses, provided that they do not include or redistribute
+copyrighted ReSilvered source code without permission.
+
+3. PROHIBITED USE
+
+Without explicit written permission from the copyright holder, you
+may not:
+
+- redistribute the original ReSilvered source code;
+- publish modified versions or forks of ReSilvered;
+- distribute modified versions of the ReSilvered mod;
+- copy substantial portions of ReSilvered source code into another
+  project;
+- claim ReSilvered or its original source code as your own;
+- use the ReSilvered source code to create a competing replacement
+  or continuation of the project.
+
+4. ADDONS
+
+Independent addons that interact with ReSilvered through its public
+API are permitted.
+
+An addon must not contain or redistribute ReSilvered's original
+source code unless explicit permission has been granted.
+
+Addon authors may use the name of ReSilvered to describe compatibility
+with the mod, but must not imply that their addon is officially
+developed, endorsed, or maintained by the ReSilvered project unless
+explicitly stated by the copyright holder.
+
+5. THIRD-PARTY MATERIAL
+
+This project was created using the ForgeGradle example/template by
+Anatawa12.
+
+Third-party code, templates, libraries, assets, and other materials
+included in or used by this project remain under their respective
+licenses and copyright notices.
+
+Where required, the original copyright notices and license terms
+must be preserved.
+
+6. CONTRIBUTIONS
+
+Unless explicitly agreed otherwise, contributions submitted to
+ReSilvered are provided under the terms of this license.
+
+By submitting a contribution, you confirm that you have the right
+to submit it under these terms.
+
+7. PERMISSION
+
+The copyright holder may grant additional permissions or exceptions
+to any of the terms above at their discretion.
+
+Such permission must be given explicitly in writing.
+
+8. NO WARRANTY
+
+ReSilvered is provided "AS IS", without warranty of any kind, express
+or implied. The copyright holder shall not be liable for any damages
+or losses arising from the use of this software, to the extent
+permitted by applicable law.
+
+9. COPYRIGHT
+
+Copyright (c) 2026 TheCosy12
+
+All rights reserved.
