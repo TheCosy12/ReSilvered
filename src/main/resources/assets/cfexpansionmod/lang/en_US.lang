@@ -1,0 +1,5 @@
+item.ItemCloth.name=Cloth
+tile.flower2.poppy.name=Rose
+item.ItemBasket.name=Basket
+
+itemGroup.TabCFexpansion=CF-Expansion

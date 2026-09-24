@@ -1,15 +1,15 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "cfexpansion",
+  "name": "CF expansion",
+  "description": "CosyFriday's Expansion is a mod focused on improving the vanilla experience and restoring old features. It is another alternate-timeline mod.",
   "version": "${version}",
-  "mcversion": "${mcversion}",
+  "mcversion": "1.7.10",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
-  "logoFile": "",
+  "authorList": ["CosyFriday"],
+  "credits": "CosyFriday",
+  "logoFile": "cfelogo.png",
   "screenshots": [],
   "dependencies": []
 }
